@@ -284,4 +284,6 @@ for batch_users in minibatch(users, batch_size=batchSize):
 
 # 3. 资料 & 感悟
 
-- refereces: [https://www.notion.so/751da338b1c84614b4a1e4501643a179](https://www.notion.so/751da338b1c84614b4a1e4501643a179)
+-  refereces：见论文学习笔记.md
+- 对NFM的增添优化，使用了recommend system的相关指标
+- pytorch & tensorflow 区别感悟
